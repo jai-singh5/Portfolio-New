@@ -383,7 +383,7 @@ span{
   text-align: right;
 }
 .timeline-item:nth-child(even){
-  padding-left: calc(50% + 3px);
+  padding-left: calc(50% + 6px);
 }
 .timeline-dot{
   height: 21px;
