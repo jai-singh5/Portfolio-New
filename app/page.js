@@ -176,7 +176,7 @@ export default function Home() {
             </div>
             <div className="timeline-content">
               <h3>Junior College</h3>
-              <p>I completed my junior college with a stream of Science (Information Technology) and achieved a score of 56%.</p>
+              <p>Completed junior college in the Science stream with a focus on Information Technology, achieving a score of 56%. Built a foundational understanding of IT concepts during this period.</p>
             </div>
           </div>
           <div className="timeline-item">
@@ -186,14 +186,13 @@ export default function Home() {
             </div>
             <div className="timeline-content">
               <h3>Graduation</h3>
-              <p>Bachelor in Science in Information Technology</p>
-              <p>I completed my Bachelor&apos;s degree in Information Technology from the University of Mumbai with a CGPA of 8.3.</p>
+              <p>Completed a Bachelor&apos;s degree in Science in Information Technology from Mumbai University with a commendable CGPI of 8.3. Gained strong foundational knowledge in information technology and honed technical and analytical skills.</p>
             </div>
           </div>
           <div className="timeline-item">
             <div className="timeline-dot"></div>
             <div className="timeline-date">
-              2023
+              2022
             </div>
             <div className="timeline-content">
               <h3>Job 1</h3>
