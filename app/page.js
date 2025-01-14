@@ -199,9 +199,7 @@ export default function Home() {
               <p>Worked as a Customer Relationship Executive at ICICI Lombard General Insurance, handling customer inquiries and providing information about products and services. Responsibilities included answering queries, processing transactions, and delivering service-related details. Also managed customer feedback to enhance service quality.</p>
             </div>
           </div>
-
         </div>
-
       </section>
 
       <section className="skill" id="skill">
