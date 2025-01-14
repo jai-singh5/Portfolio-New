@@ -1,6 +1,6 @@
 "use client"
 import React, { useState, useEffect } from "react";
-import { IoCloseOutline, IoCloseSharp, IoLogoCss3, IoLogoReact, IoMenu, IoMoon, IoSunny } from "react-icons/io5";
+import { IoCloseSharp, IoLogoCss3, IoLogoReact, IoMenu, IoMoon, IoSunny } from "react-icons/io5";
 import { FaBootstrap, FaGitAlt, FaGithub, FaHtml5, FaInstagram, FaLinkedinIn, FaNodeJs } from "react-icons/fa6";
 import { TbBrandJavascript, TbBrandMysql, TbBrandVscode } from "react-icons/tb";
 import { RiNextjsFill, RiTailwindCssFill } from "react-icons/ri";
@@ -172,7 +172,7 @@ export default function Home() {
           <div className="timeline-item">
             <div className="timeline-dot"></div>
             <div className="timeline-date">
-              2016-2018
+              2018
             </div>
             <div className="timeline-content">
               <h3>Junior College</h3>
@@ -182,11 +182,22 @@ export default function Home() {
           <div className="timeline-item">
             <div className="timeline-dot"></div>
             <div className="timeline-date">
-              2019-2022
+              2022
             </div>
             <div className="timeline-content">
-              <h3>Bachelor in Science in Information Technology</h3>
+              <h3>Graduation</h3>
+              <p>Bachelor in Science in Information Technology</p>
               <p>I completed my Bachelor&apos;s degree in Information Technology from the University of Mumbai with a CGPA of 8.3.</p>
+            </div>
+          </div>
+          <div className="timeline-item">
+            <div className="timeline-dot"></div>
+            <div className="timeline-date">
+              2023
+            </div>
+            <div className="timeline-content">
+              <h3>Job 1</h3>
+              <p>Worked as a Customer Relationship Executive at ICICI Lombard General Insurance, handling customer inquiries and providing information about products and services. Responsibilities included answering queries, processing transactions, and delivering service-related details. Also managed customer feedback to enhance service quality.</p>
             </div>
           </div>
 
