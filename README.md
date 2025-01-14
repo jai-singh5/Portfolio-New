@@ -17,6 +17,7 @@ Welcome to my portfolio website! This is a personal project where I showcase my 
 This portfolio website serves as a digital business card and a platform to present my work, skills, and background. It includes various sections such as:
 
 - **Home**: A brief introduction to who I am.
+- **Skill**: Showcasing my skills to know me better.
 - **Projects**: Showcasing some of my recent and notable projects.
 - **Experience**: An overview of my work history and professional experiences.
 - **Contact**: Ways to get in touch with me.
