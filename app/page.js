@@ -1,7 +1,7 @@
 "use client"
 import React, { useState, useEffect } from "react";
 import { IoCloseSharp, IoLogoCss3, IoLogoReact, IoMenu, IoMoon, IoSunny } from "react-icons/io5";
-import { FaBootstrap, FaGitAlt, FaGithub, FaHtml5, FaInstagram, FaLinkedinIn, FaNodeJs } from "react-icons/fa6";
+import { FaArrowRightLong, FaBootstrap, FaGitAlt, FaGithub, FaHtml5, FaInstagram, FaLinkedinIn, FaNodeJs } from "react-icons/fa6";
 import { TbBrandJavascript, TbBrandMysql, TbBrandVscode } from "react-icons/tb";
 import { RiNextjsFill, RiTailwindCssFill } from "react-icons/ri";
 import { SiAdobephotoshop, SiMongodb, SiVercel } from "react-icons/si";
@@ -260,8 +260,8 @@ export default function Home() {
               <p>Fuel My Work is a crowdfunding platform built with Next.js and Tailwind CSS, designed for fans to financially support their favorite creators projects. It empowers creators developers, artists, and influencers to bring their ideas to life with the backing of their community.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://fuelmywork.netlify.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/Fuel-My-Work"> GitHub &rarr;</a>
+                      <a className="box3" href="https://fuelmywork.netlify.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/Fuel-My-Work"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
             
@@ -273,8 +273,8 @@ export default function Home() {
               <p>Made a Project on music streaming application built using JavaScript, HTML, and CSS. It features a sleek, user-friendly interface that mimics the look and feel of Spotify. Users can browse and play tracks, view playlists, and enjoy a seamless listening experience.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://spotify-clone-jsr.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/Spotify-Clone"> GitHub &rarr;</a>
+                      <a className="box3" href="https://spotify-clone-jsr.vercel.app/"> live Site <FaArrowRightLong /> </a>
+                      <a className="box3" href="https://github.com/jai-singh5/Spotify-Clone"> GitHub <FaArrowRightLong /> </a>
                   </div>
               </div>
           </div>
@@ -285,8 +285,8 @@ export default function Home() {
               <p>This project is a simple clone of the X (formerly Twitter) UI using only HTML and Tailwind CSS. The goal is to replicate the main user interface of X while leveraging Tailwind CSS for utility-first styling. Features</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      {/* <a className="box3" href="https://fuelmywork.vercel.app/"> live Site &rarr;</a> */}
-                      <a className="box3" href="https://github.com/jai-singh5/X-Twitter-.git"> GitHub &rarr;</a>
+                      {/* <a className="box3" href="https://fuelmywork.vercel.app/"> live Site <FaArrowRightLong /></a> */}
+                      <a className="box3" href="https://github.com/jai-singh5/X-Twitter-.git"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -297,8 +297,8 @@ export default function Home() {
               <p>This classic Snake Game is built with JavaScript, HTML, and CSS. It features smooth gameplay and a responsive design, offering a nostalgic gaming experience. Players navigate the snake to collect food while avoiding collisions with the walls and the snake&apos;s own tail.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://jsr-snake-game.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/Snake-Game.git"> GitHub &rarr;</a>
+                      <a className="box3" href="https://jsr-snake-game.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/Snake-Game.git"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -309,8 +309,8 @@ export default function Home() {
               <p>This is a simple implementation of the classic Rock, Paper, Scissors game using HTML, CSS, and JavaScript. The user plays against the computer, and the game keeps track of the scores.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://rockpaperscissorjsr.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/rock-paper-scissor"> GitHub &rarr;</a>
+                      <a className="box3" href="https://rockpaperscissorjsr.vercel.app/"> live Site  <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/rock-paper-scissor"> GitHub  <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -321,8 +321,8 @@ export default function Home() {
               <p>Welcome to the Tic-Tac-Toe game, a simple and fun project built using HTML, CSS, and JavaScript! This is the classic game where two players take turns marking spaces in a 3x3 grid, aiming to be the first to get three marks in a row (horizontally, vertically, or diagonally).</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://jsr-tic-tac-toe.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/Tic-Tac-Toe.git"> GitHub &rarr;</a>
+                      <a className="box3" href="https://jsr-tic-tac-toe.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/Tic-Tac-Toe.git"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -333,8 +333,8 @@ export default function Home() {
               <p>A simple, user-friendly web-based currency converter that allows users to convert between multiple currencies using real-time exchange rates fetched from the ExchangeRate-API.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://currency-converter-jsr.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/Currency-Converter.git"> GitHub &rarr;</a>
+                      <a className="box3" href="https://currency-converter-jsr.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/Currency-Converter.git"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -345,8 +345,8 @@ export default function Home() {
               <p>A simple, user-friendly calculator built using HTML, CSS, and JavaScript. This calculator performs basic arithmetic operations including addition, subtraction, multiplication, and division.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://calculator-jsr.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/Calculator.git"> GitHub &rarr;</a>
+                      <a className="box3" href="https://calculator-jsr.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/Calculator.git"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -357,8 +357,8 @@ export default function Home() {
               <p>This project is a simple yet functional To-Do List application developed using JavaScript, HTML, and CSS. It allows users to add, edit, and remove tasks with ease.The simple interface and responsive design ensure a smooth user experience.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://to-do-list-jsr.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/To-Do-List.git"> GitHub &rarr;</a>
+                      <a className="box3" href="https://to-do-list-jsr.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/To-Do-List.git"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -369,8 +369,8 @@ export default function Home() {
               <p>This portfolio website, built with React.js, showcases my projects, skills in a sleek and interactive format. With responsive design and layout, it highlights my expertise in web development. This site demonstrates my ability to create dynamic and professional web applications.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      {/* <a className="box3" href="https://fuelmywork.vercel.app/"> live Site &rarr;</a> */}
-                      <a className="box3" href="https://github.com/jai-singh5/Portfolio-New"> GitHub &rarr;</a>
+                      {/* <a className="box3" href="https://fuelmywork.vercel.app/"> live Site <FaArrowRightLong /></a> */}
+                      <a className="box3" href="https://github.com/jai-singh5/Portfolio-New"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -381,8 +381,8 @@ export default function Home() {
               <p>News Panda is a responsive news web application built with React that fetches real-time news using the News API. Users can browse through various categories of news including business, entertainment, health, science, sports, and technology, with the option to load more articles through infinite scrolling.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://news-panda-green.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/News-Panda"> GitHub &rarr;</a>
+                      <a className="box3" href="https://news-panda-green.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/News-Panda"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -393,8 +393,8 @@ export default function Home() {
               <p>Welcome to J-MART, an e-commerce platform built with React and Bootstrap. J-MART offers a seamless shopping experience with a modern user interface and dynamic functionalities. This project demonstrates a clean and responsive design for online shopping.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://j-mart-jsr.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/J-Mart"> GitHub &rarr;</a>
+                      <a className="box3" href="https://j-mart-jsr.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/J-Mart"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
@@ -405,8 +405,8 @@ export default function Home() {
               <p>The Fitness Expert Website is a dynamic and user-friendly platform designed to inspire and guide users on their fitness journey. It features a motivational homepage, detailed service offerings like yoga, weight training, and personal coaching, and highlights expert trainers and state-of-the-art facilities.</p>
               <div className="visiting">
                   <div className="tags tags-container">
-                      <a className="box3" href="https://fitness-expert.vercel.app/"> live Site &rarr;</a>
-                      <a className="box3" href="https://github.com/jai-singh5/Fitness-Expert"> GitHub &rarr;</a>
+                      <a className="box3" href="https://fitness-expert.vercel.app/"> live Site <FaArrowRightLong /></a>
+                      <a className="box3" href="https://github.com/jai-singh5/Fitness-Expert"> GitHub <FaArrowRightLong /></a>
                   </div>
               </div>
           </div>
