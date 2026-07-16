@@ -195,8 +195,18 @@ export default function Home() {
               2022
             </div>
             <div className="timeline-content">
-              <h3>Job 1</h3>
+              <h3>Customer Relationship Executive | ICICI Lombard General Insurance</h3>
               <p>Worked as a Customer Relationship Executive at ICICI Lombard General Insurance, handling customer inquiries and providing information about products and services. Responsibilities included answering queries, processing transactions, and delivering service-related details. Also managed customer feedback to enhance service quality.</p>
+            </div>
+          </div>
+          <div className="timeline-item">
+            <div className="timeline-dot"></div>
+            <div className="timeline-date">
+              2025
+            </div>
+            <div className="timeline-content">
+              <h3>Customer Support Executive | Hexaware Technologies</h3>
+              <p>Provided customer support to PhonePe merchants by resolving queries related to merchant accounts, settlements, SmartSpeaker devices, and POS terminals. Assisted with troubleshooting, payment settlement issues, device setup, and account-related concerns while ensuring timely resolutions and a high level of customer satisfaction.</p>
             </div>
           </div>
         </div>
