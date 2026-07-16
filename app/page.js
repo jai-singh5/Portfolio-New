@@ -4,7 +4,7 @@ import { IoCloseSharp, IoLogoCss3, IoLogoReact, IoMenu, IoMoon, IoSunny } from "
 import { FaArrowRightLong, FaBootstrap, FaGitAlt, FaGithub, FaHtml5, FaInstagram, FaLinkedinIn, FaNodeJs } from "react-icons/fa6";
 import { TbBrandJavascript, TbBrandMysql, TbBrandVscode } from "react-icons/tb";
 import { RiNextjsFill, RiTailwindCssFill } from "react-icons/ri";
-import { SiAdobephotoshop, SiMongodb, SiVercel } from "react-icons/si";
+import { SiMongodb, SiVercel } from "react-icons/si";
 
 
 export default function Home() {
@@ -225,7 +225,7 @@ export default function Home() {
                 <p><i className="bx bxl-react bx-tada"></i><IoLogoReact /> React</p>
                 <p><i className="bx bxl-bootstrap bx-tada"></i><FaBootstrap /> Bootstrap</p>
                 <p><i className="bx bxl-tailwind-css bx-tada"></i><RiTailwindCssFill /> Tailwind CSS</p>
-                <p><i className="bx bxl-adobe bx-tada"></i><SiAdobephotoshop /> Adobe Photoshop</p>
+                <p>🎨 Adobe Photoshop</p>
               </div>
             </div>
           </div>
@@ -234,7 +234,7 @@ export default function Home() {
               <h4>BACKEND</h4>
               <div className="skill-bar">
                 <p><FaNodeJs /> Node.js</p>
-                <p><RiNextjsFill /> Nest.js</p>
+                <p><RiNextjsFill /> Next.js</p>
               </div>
             </div>
           </div>
