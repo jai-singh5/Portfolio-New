@@ -70,7 +70,7 @@ export default function Home() {
 
 
   const onButtonClick = () => {
-    const pdfUrl = "/Jai Singh Resume.pdf"; // Path to your PDF file in the public folder
+    const pdfUrl = "/JaiSingh Resume.pdf"; // Path to your PDF file in the public folder
     window.open(pdfUrl, "_blank"); // Opens the PDF in a new tab
   };
 
